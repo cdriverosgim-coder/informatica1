@@ -2,7 +2,7 @@ def hola_mundo() -> str:
     """
     Devuelve el saludo 'Hola Git 2025'.
     """
-    return "Hola Git 2025 --"
+    return "Hola GitHub 2025"
 
 
 if __name__ == "__main__":
